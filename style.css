@@ -1,0 +1,50 @@
+
+.index{
+     margin-top: 5px;
+     float: right;
+}
+
+.adj{
+    margin-left: 38%;
+    padding-top: 60px;
+}
+
+.adj1{
+    margin-left: 30%;
+    padding: 20px;
+}
+
+.go{
+    width: 340px;
+}
+
+.last{
+    width: 100%;
+    height: 6.2%;
+}
+.last1{
+    width: 100%;
+    height: 6.2%;
+    margin-top: 19%;
+}
+
+button{
+    margin-top: 5px; 
+    padding:10px;
+    background-color:#F8F9FA;
+    box-shadow: 0.5px white;
+    border:none;
+    border-radius:5px;
+    margin-left:13px;
+    
+}
+input
+{
+    outline:0.1px grey solid;
+    border:none;
+    height: 6%; 
+    width: 58%; 
+    border-radius: 20px; 
+    box-shadow: 3px rgba(87, 87, 87, 0.624);
+    background-image: url(https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-512.png);
+}
